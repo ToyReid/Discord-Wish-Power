@@ -44,4 +44,4 @@ async def on_message(message):
     if "🅱" in message.content and message.author.id != message.server.me.id:
         bcount += message.content.count("🅱")
 
-client.run("NDIwODIwMzc5OTU1NjI1OTg1.DYEPmQ.iznb9pN53KCK-9-bj3iljzBfMD4")
+client.run("")
